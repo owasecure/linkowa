@@ -1,5 +1,3 @@
-Crypt
-
 <?php
 function getemIDFromem($em)
 {
